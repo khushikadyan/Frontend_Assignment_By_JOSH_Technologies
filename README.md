@@ -24,6 +24,10 @@ The goal was to create a **responsive, mobile-first, and cross-browser compatibl
 
 ##  Screenshots
 
+<img width="1822" height="779" alt="image" src="https://github.com/user-attachments/assets/ff206af7-8255-488a-826a-69caf5f88a08" />
+
+<img width="1814" height="805" alt="image" src="https://github.com/user-attachments/assets/cf27932c-53e9-4c88-b329-250a3c0bcd19" />
+
 
 ---
 
